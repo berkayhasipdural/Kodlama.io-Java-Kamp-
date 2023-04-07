@@ -1,0 +1,6 @@
+
+public interface BerkayHasip {
+	
+	public void add();
+
+}

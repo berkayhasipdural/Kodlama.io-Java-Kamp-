@@ -1,0 +1,18 @@
+1665756134934	Copy package
+1665756160906	Copy package
+1665756169626	Copy package
+1665756191170	Delete element
+1665756198474	Delete element
+1665756244314	Delete element
+1665756517496	Rename type 'ProductManager'
+1665760225831	Rename type 'HibernateProductDao'
+1665760238002	Rename type 'JdbcProductDao'
+1665760254096	Rename type 'ProductDao'
+1665769222617	Delete element
+1665772588703	Infer generic type arguments
+1665774054750	Infer generic type arguments
+1665778489453	Infer generic type arguments
+1665825179873	Delete element
+1665949285301	Rename type 'HibernateCoursetDao'
+1665950880036	Copy compilation unit
+1665950887452	Delete element

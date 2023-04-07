@@ -1,0 +1,18 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		Product product =new Product();
+		product.setName("Computer");
+		product.setId(8);
+		product.setDescription("Asus");
+		product.setPrice(6.99);
+		product.setStockAmount(6);
+		
+		ProductManager productManager=new ProductManager();
+		productManager.Delete(product);
+		System.out.println(product.getId());
+
+	}
+
+}

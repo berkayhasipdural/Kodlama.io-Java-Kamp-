@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+C:\Java2022\Kodlama.io Java Kampý\Kodlama.io.Devs\.metadata\.plugins\org.eclipse.jdt.core

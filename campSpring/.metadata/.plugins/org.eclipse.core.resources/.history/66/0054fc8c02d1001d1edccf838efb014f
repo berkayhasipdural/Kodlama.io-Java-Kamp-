@@ -1,0 +1,14 @@
+package kodlama.io.rentACar.entities.concretes;
+
+import jakarta.persistence.Entity;
+import jakarta.persistence.Table;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+
+@Table
+@Data
+@AllArgsConstructor
+@Entity
+public class Model {
+
+}
